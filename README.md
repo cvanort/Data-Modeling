@@ -14,5 +14,5 @@ Tensorflow is a popular end-to-end Machine Learning Library from Google whcih su
 
 Refer [this](https://github.com/CropAi/Data-Modeling/blob/master/docs/transfer_learning.md) for knowing how to use transfer learning for Crop Disease Detection. 
 
-Before contributing to this project do check [CONTRIBUTING.md](https://github.com/CropAi/Data-Modeling/blob/master/docs/CONTRIBUTING.md) file and [CODE_OF_CONDUCT.md](https://github.com/CropAi/Data-Modeling/blob/master/docs/CODE_OF_CONDUCT.md) file.
+Before contributing to this project, do check [CONTRIBUTING.md](https://github.com/CropAi/Data-Modeling/blob/master/docs/CONTRIBUTING.md) file and [CODE_OF_CONDUCT.md](https://github.com/CropAi/Data-Modeling/blob/master/docs/CODE_OF_CONDUCT.md) file.
 
